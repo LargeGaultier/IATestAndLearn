@@ -1,0 +1,8 @@
+langchain
+llama-index
+faiss-cpu
+pdfminer.six
+pypdf
+sentence-transformers
+gradio
+transformers
