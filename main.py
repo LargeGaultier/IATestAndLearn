@@ -1,5 +1,5 @@
 import gradio as gr
-from chatbot import ask_question
+from src.chatbot import ask_question
 
 def chat_interface(question):
     return ask_question(question)
